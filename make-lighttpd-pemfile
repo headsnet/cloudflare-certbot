@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /etc/letsencrypt/live/${CERTBOT_DOMAIN} && cat privkey.pem cert.pem > lighttpd.pem;
+
+exit 0;
