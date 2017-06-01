@@ -1,0 +1,3 @@
+# Get your API key from https://www.cloudflare.com/a/account/my-account
+CLOUDFLARE_USER=user@example.com
+CLOUDFLARE_KEY=putyourapikeyhere
